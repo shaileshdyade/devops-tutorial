@@ -1,2 +1,4 @@
 Second file we are creating
 
+This line is from feature1
+
