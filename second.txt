@@ -4,4 +4,5 @@ THis line is added from Master
 This line is from feature1
 
 This is new defectfix from defect1 branch
+This another line from feature 1 for branching
 
